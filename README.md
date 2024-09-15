@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sensei-this" alt="sensei-this" /></a> </p>
 
-- 🔭 I’m currently working on [CometaRP | SCP:RP | Garry`s Mod](https://discord.gg/rNeCE8kyPY)
+- 🔭 I’m currently working on [CometaRP | SCP:RP | Garry`s Mod | RU](https://discord.gg/rNeCE8kyPY)
 
 - 👯 You can see my reviews and reputation [Snake Development Club [RU]](https://discord.gg/rmJHntTdqB)
 
