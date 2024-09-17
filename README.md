@@ -2,12 +2,6 @@
 
 ###
 
-- 🔭 I’m currently working on [CometaRP | SCP:RP | Garry`s Mod | RU](https://discord.gg/rNeCE8kyPY)
-
-- 👯 You can see my reviews and reputation [Snake Development Club [RU]](https://discord.gg/rmJHntTdqB)
-
-- 🤝 I am also a musician [Google Search](https://g.co/kgs/fN3DkBH)
-
 <br clear="both">
 
 <div align="center">
@@ -26,6 +20,12 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
 </div>
+
+- 🔭 I’m currently working on [CometaRP | SCP:RP | Garry`s Mod | RU](https://discord.gg/rNeCE8kyPY)
+
+- 👯 You can see my reviews and reputation [Snake Development Club [RU]](https://discord.gg/rmJHntTdqB)
+
+- 🤝 I am also a musician [Google Search](https://g.co/kgs/fN3DkBH)
 
 ###
 
