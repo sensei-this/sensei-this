@@ -87,7 +87,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sensei-this/sensei-this/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sensei-this/sensei-this/main/github/workflows/snake.yml" alt="Snake animation" />
 
 ###
 
