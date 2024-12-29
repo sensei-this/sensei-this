@@ -23,8 +23,6 @@
 
 ###
 
-- 🔭 I’m currently working on [CometaRP | SCP:RP | Garry`s Mod | RU](https://discord.gg/rNeCE8kyPY)
-
 - 👯 You can see my reviews and reputation [Snake Development Club [RU]](https://discord.gg/rmJHntTdqB)
 
 - 🤝 I am also a musician [Google Search](https://g.co/kgs/fN3DkBH)
